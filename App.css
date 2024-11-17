@@ -1,0 +1,44 @@
+.buttons button {
+  border: 2px;
+  padding: 11px 18px;
+  outline: none;
+  text-shadow: blueviolet;
+  font-style: normal;
+  font-weight: 384px;
+  font-size: 20px;
+  outline-color: white;
+  border-radius: 25px;
+  margin: 550px -5px;
+  width: 120px;
+  height: 49px;
+}
+
+
+.wholebody{
+  width: 100%;
+  height: 100vh;
+}
+.buttons{
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.refresh {
+  padding: -11px;
+  text-align: center;
+  width: 130px;
+  border-radius: 68px;
+  background-color: azure;
+  margin-top: 102px;
+  border: 2px solid black;
+  height: 76px;
+}
+
+.buttons h3{
+  border: 2px solid black ;
+  height: 30px;
+  border-radius: 10px;
+  width: 130px;
+  text-align: center;
+}
